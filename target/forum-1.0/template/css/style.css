@@ -1,0 +1,39 @@
+.form button {
+	margin: 20px;
+}
+
+.form input {
+	padding: 10px;
+}
+
+.home-card {
+	margin: 10px;
+	padding: 20px;
+	border-radius: 10px;
+	border: 2px solid #2DA25D;
+}
+
+.home-card .atitle {
+	color: black;
+	text-decoration: none;
+	display: block;
+}
+
+.title {
+	font-size: 20px;
+	width:90%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.info-post {
+	font-style: italic;
+}
+
+.show-alert{
+	display: block;
+}
+.hide-alert{
+	display: none;
+}

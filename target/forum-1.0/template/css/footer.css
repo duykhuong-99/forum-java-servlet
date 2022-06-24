@@ -1,0 +1,18 @@
+.footer{
+	height:100px;
+	background-color: #4C7152;
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, #212121,#5B5B5B, #919191, #D8D8D8);
+}
+.f-left{
+	
+}
+.f-right{
+}
+.f-name{
+	font-size: 30px;
+	font-weight: bolder;
+	font-style:italic;
+	color: white;
+	margin:30px;
+}

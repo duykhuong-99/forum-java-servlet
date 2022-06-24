@@ -1,0 +1,26 @@
+.gradient-backcolor {
+	height: 200px;
+	background-color: #84FF8D;
+	/* For browsers that do not support gradients */
+	background-image: linear-gradient(to bottom right, #84FF8D, #B9FCF5);
+}
+
+.h-background {
+	background-image: url("./../images/banner.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.h-name {
+	color: white;
+	font-size: 80px;
+	font-weight: bold;
+	padding: 40px;
+}
+.h-marginbtn{
+	margin:10px;
+}
+.btn-link{
+	color: black;
+}

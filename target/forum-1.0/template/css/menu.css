@@ -1,0 +1,11 @@
+.menu .btn{
+	color: #2DCB6E;
+	background-color: white;
+	width: 100%;
+	padding:10px;
+	margin: 10px;
+}
+.menu .btn:hover:not(.active) {
+  background-color: #2DCB6E;
+  color: white;
+}
